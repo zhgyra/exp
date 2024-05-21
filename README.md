@@ -1,4 +1,4 @@
-# exp使用git管理代码
+# exp1
 class Ticket:
     def __init__(self, price):
         self.price = price
